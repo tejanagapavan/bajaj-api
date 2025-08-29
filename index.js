@@ -39,9 +39,9 @@ export default function handler(req, res) {
 
     const response = {
       is_success: true,
-      user_id: "your_fullname_ddmmyyyy", // Replace with your full name and DOB
-      email: "your_email@domain.com",    // Replace with your email
-      roll_number: "YOURROLLNO",         // Replace with your roll number
+      user_id: "L teja nagapavan_16052003", // Replace with your full name and DOB
+      email: "tejanagapavan@gmail.com",    // Replace with your email
+      roll_number: "21MIS0125",         // Replace with your roll number
       odd_numbers,
       even_numbers,
       alphabets,
