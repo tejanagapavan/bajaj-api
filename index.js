@@ -40,7 +40,7 @@ export default function handler(req, res) {
     const response = {
       is_success: true,
       user_id: "L teja nagapavan_16052003", // Replace with your full name and DOB
-      email: "tejanagapavan@gmail.com",    // Replace with your email
+      email: "tejanagapavan123@gmail.com",    // Replace with your email
       roll_number: "21MIS0125",         // Replace with your roll number
       odd_numbers,
       even_numbers,
